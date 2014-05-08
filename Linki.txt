@@ -1,0 +1,35 @@
+-- [ANN] 'foo' and 'bar' coins--a "how-to" guide for cut+paste cryptocurrency --
+
+https://bitcointalk.org/index.php?topic=217636.0
+-------------------------------------------------
+
+
+
+-- Tutorial stepbystep jak stworzyæ w³asn¹ kryptowalutê (PL) --
+
+http://dogecoin.ga/jak_stworzyc_wlasna_kryptowalute.html
+---------------------------------------------------------
+
+
+
+-- Strona, gdzie ka¿da 'szanuj¹ca siê waluta', która chce zaistnieæ umieszcza swego rodzaju prezentacje --
+
+https://bitcointalk.org/index.php?board=159.0
+----------------------------------------------
+
+
+
+-- Waluty + kursy --
+
+http://coinmarketcap.com/
+--------------------------
+
+
+
+-- Wiki --
+
+http://pl.wikipedia.org/wiki/Litecoin
+http://pl.wikipedia.org/wiki/SHA-2
+http://en.wikipedia.org/wiki/Scrypt 
+http://pl.wikipedia.org/wiki/Bitcoin
+---------------------------------------
