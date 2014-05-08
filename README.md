@@ -1,4 +1,4 @@
-kod
+Tutoriale
 ===
 
-Kod do kryptokredytu
+Materiały pomocnicze do tworzenia projektu.
