@@ -1,0 +1,4 @@
+kod
+===
+
+Kod do kryptokredytu
